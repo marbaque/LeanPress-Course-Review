@@ -1,5 +1,17 @@
-##Description  
-**LearnPress Course Review** bring review feature to your course. Now, student can rate and give review for the course they take on a LearnPress site.  
+===  LearnPress Course Review - WordPress extension for LearnPress===  
+Contributors: thimpress, halink0803, tunnhn  
+Donate link:  
+Tags: lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses  
+Requires at least: 3.8  
+Tested up to: 4.2.2  
+Stable tag: trunk  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+
+LearnPress Course Review - An extension plugin for LearnPress.  
+
+== Description ==  
+LearnPress Course Review bring review feature to your course. Now, student can rate and give review for the course they take on a LearnPress site.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
@@ -18,21 +30,33 @@
 - <a href="http://thimpress.com/shop/stripe-add-on-for-learnpress/"  target="_blank">Stripe Payment method for LearnPress</a> - Stripe payment method for LearnPress WordPress LMS Plugin.  
 - <a href="http://thimpress.com/shop/woocommerce-add-on-for-learnpress/"  target="_blank">WooCommerce add-on for LearnPress</a> - using WooCommerce as payment gateway for LearnPrss WordPress LMS Plugin.  
 
-##Installation
+== Installation ==  
 
 **From your WordPress dashboard**  
 1. Visit 'Plugin > Add new'.  
-2. Search for *LearnPress Course Review*.  
-3. Activate *LearnPress Course Review* from your Plugins page.  
+2. Search for 'LearnPress Course Review'.  
+3. Activate LearnPress from your Plugins page.  
 
 **From WordPress.org**  
-1. Search, select and download *LearnPress Course Review*.  
+1. Search, select and download LearnPress Course Review.  
 2. Activate the plugin through the 'Plugins' menu in WordPress Dashboard.  
 
-##Frequently Asked Questions  
-**Can I create an add-on for LearnPress like *LearnPress Course Review* by myself?**  
-Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki">LearnPress github repo.</a>
+== Frequently Asked Questions ==  
 
-##Other note
+Check out <a href="http://docs.thimpress.com/learnpress" target="_blank">LearnPress</a> sites.  
+
+== Screenshots ==  
+
+1. LearnPress Course Review screenshot.  
+
+== Changelog ==
+
+= 0.9.0 =  
+The first beta release.  
+
+== Upgrade Notice ==  
+Later :)
+
+== Other note ==  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
-<a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a> 
+<a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a>  
