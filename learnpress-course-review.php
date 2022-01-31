@@ -7,6 +7,8 @@ Author: thimpress
 Version: beta
 Author URI: http://thimpress.com
 Tags: learnpress
+Text Domain: learn_press
+Domain Path: /languages
 */
 if ( !defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
